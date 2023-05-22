@@ -1,6 +1,6 @@
 # Ticket Seller Microservice
 
-The Ticket Seller Microservice is an application that allows users to create tickets, and other users can purchase them. The application is built using a microservice architecture and utilizes the NATS Streaming Server as the message queue. The entire application is divided into five standalone services: Auth Service, Ticket Service, Order Service, Expiration Service, and Payment Service.
+The Ticket Seller Microservice is an application that allows users to create tickets, and other users can purchase them. The application is built using the microservice architecture and utilizes the NATS Streaming Server as the message queue. The entire application is divided into five standalone services: Auth Service, Ticket Service, Order Service, Expiration Service, and Payment Service.
 
 ## Technologies Used
 
@@ -18,7 +18,7 @@ To install and set up the Ticket Seller Microservice, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/shone0106/ticket-seller-microservice.git
+   git clone https://github.com/shone0106/Ticket-seller-microservice.git
 2. Navigate to the project's root directory:
    ```
    cd Ticket-seller-microservice
